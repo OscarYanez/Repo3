@@ -1,0 +1,19 @@
+
+using System;
+
+namespace Datos Personales
+{
+	/// <summary>
+	/// Description of Class1.
+	/// </summary>
+	public class Persona
+	{public String nombre;
+		public String Edad;
+		public String Correo;
+		public Persona()
+		{
+			
+				
+		}
+	}
+}
